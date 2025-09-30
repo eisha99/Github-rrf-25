@@ -1,5 +1,7 @@
 # Intro to Git and GitHub training - Contributor
 
+-adding comment
+
 This repository was created for a training session of
 [DIME Analytics](https://www.worldbank.org/en/research/dime/data-and-analytics)
 *Intro to Git and GitHub Training - Contributor*.
@@ -64,17 +66,17 @@ If you are following a recording of this training and want to follow along,
 then this is what you need to do.
 
 1. The easiest way is to
-[import a copy of the repo](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer)
-to your account.
-If you want a clean copy of the repo, make sure to use this URL:
-https://github.com/dime-wb-trainings/lyrics-clean.
-
+   [import a copy of the repo](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer)
+   to your account.
+   If you want a clean copy of the repo, make sure to use this URL:
+   https://github.com/dime-wb-trainings/lyrics-clean.
 2. If you want to modify how these slides are created,
-then you can find the python code used to set up this repos in the
-[jupyter-repo-setup](https://github.com/worldbank/dime-github-trainings/tree/main/GitHub-trainings/Intro-Git-GitHub-Contributor/jupyter-repo-setup)
-folder.
-You can modify that script to create a copy of the repo however you want.
+   then you can find the python code used to set up this repos in the
+   [jupyter-repo-setup](https://github.com/worldbank/dime-github-trainings/tree/main/GitHub-trainings/Intro-Git-GitHub-Contributor/jupyter-repo-setup)
+   folder.
+   You can modify that script to create a copy of the repo however you want.
 
 ## Contact
 
 If you have any questions about this training, please email us at dimeanalytics@worldbank.org
+
